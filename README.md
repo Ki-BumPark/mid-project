@@ -9,9 +9,10 @@
   file_name = "NHIS_OPEN_T60_2018_PART3.csv"  
   ATC_file_name = "atcdata.csv"
 </code>
-</pre?
+</pre>
 
 위의 변수에 각각 데이터가 존재하는 경로를 설정합니다.
+
 
 <pre>
 <code>
